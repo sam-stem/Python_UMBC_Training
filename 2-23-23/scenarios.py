@@ -4,7 +4,7 @@
 
 # Intro
 print(
-  "*****************Darkness from yonder in a Galaxy beknowst to its people , the journey of jon squire lead him down a few paths*****************************"
+  "*****************Darkness from yonder in a Galaxy beknowst to its people , the journey of jon squire lead him down a few paths as he made his noble journey through the lost kingdom of Aixyah to become a reknowned Knight*****************************"
 )
 storySelect = input("Please enter 'a'-'c' to embark on each encounter: ")
 # Pick a story 1
@@ -56,4 +56,3 @@ else:
     print(
       f"\nWoah sorry young squire, {choice3} is an incorrect response. unfortunately, you will now be stripped of your duties"
     )
-
