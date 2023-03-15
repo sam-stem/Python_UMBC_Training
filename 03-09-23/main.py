@@ -72,7 +72,7 @@ def wordPrompt(length):
 
 ### Main Program ###
 actual = "sample"
-length = int(input("Please enter length: "))
+length = len(actual)
 attempts = wordPrompt(length)
 index = 0
 attemptsCount = 6
